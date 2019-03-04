@@ -5420,8 +5420,8 @@ LastModified=2017-12-23 11:47:50
 00000030=All but "%s"
 
 [Hdp]
-00000010=Women
-00000020=Men
+00000010=Sievietes
+00000020=Vîrieði
 
 [Help]
 00000010=List of Present Data
@@ -10367,7 +10367,7 @@ LastModified=2017-12-23 11:47:50
 
 [ItemInscription]
 00000010=Entered for
-00000020=Lane
+00000020=Celiòð
 00000030=Pos.
 00000040=Entry Date
 00000041=Date
@@ -15297,7 +15297,7 @@ LastModified=2017-12-23 11:47:50
 
 [ItemStatScores]
 00000001=Scores Statistics
-00000010=Name
+00000010=Vârds
 00000020=Total Scratch Pins
 00000021=Scratch
 00000022=Total Scratch Only without Handicap, Bonus Pins or Bonus Pts.
@@ -15351,7 +15351,7 @@ LastModified=2017-12-23 11:47:50
 00000240=Points (A) Obtained
 00000241=Win Pts A
 00000250=1st Lane Assigned
-00000251=Lane
+00000251=Celiòð
 00000260=1st Position Assigned
 00000261=Pos.
 00000280=Main ID
@@ -19579,16 +19579,16 @@ LastModified=2017-12-23 11:47:50
 
 [WebConsts]
 00000010=Visi rezultâti
-00000020=Schedule
-00000030=Bowlers List
-00000040=Team List
-00000050=Rule
-00000060=Calendar
-00000070=Registration
-00000080=Home
+00000020=Grafiks
+00000030=Spçlçtâju saraksts
+00000040=Komandu saraksts
+00000050=Noteikumi
+00000060=Kalendârs
+00000070=Reìistrâcija
+00000080=Sâkums
 00000090=(Standing if not Exist)
-00000100=Results
-00000110=Complete standings
+00000100=Rezultâti
+00000110=Visi rezultâti
 00000120=The file is too large, the size should be maximum %sKo, reduce the resolution or size (ex: 1500 pixels wide)
 00000130=Generate Internet Update
 
